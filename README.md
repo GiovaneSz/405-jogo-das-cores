@@ -1,6 +1,6 @@
-#JOGO DAS CORES
+# JOGO DAS CORES
 
-##Linguagens itilizadas
+## Linguagens itilizadas
 - HTML
 - CSS
 - JAVASCRIPT
